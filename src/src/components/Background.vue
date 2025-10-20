@@ -46,7 +46,7 @@
     </div>
     <div class="layer layer__layer3" ref="layer3">
       <div class="layer layer__layer3-1" ref="layer31">
-        <a class="layer__link" href="https://github.com/Vlas-Omsk">
+        <a class="layer__link" href="https://github.com/u0feff">
           <svg
             ref="avatarSvgRef"
             xmlns="http://www.w3.org/2000/svg"
