@@ -61,7 +61,7 @@ export default {
       isUnloading: false,
       isLoadingAnimationOver: false,
       showdownConverter: null,
-      userName: "Vlas-Omsk",
+      userName: "u0feff",
       isProjectsLoading: false,
       isAnimatedBackgroundEnabled: true,
 
